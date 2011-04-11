@@ -35,6 +35,7 @@ require 'active_support/core_ext/kernel/requires'
 require 'active_support/base64'
 require 'active_support/secure_random'
 
+require 'active_model'
 require 'builder'
 require 'cgi'
 require 'rexml/document'
